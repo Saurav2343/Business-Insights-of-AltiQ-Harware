@@ -3,7 +3,7 @@
 
 AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
 
-I, Manisha Deepshikha Patra, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
+I, Saurav Kumar, took the lead on this initiative, and harnessed an array of tools and techniques:
 
 *Technology Stack:*
 - SQL
@@ -40,22 +40,22 @@ This project's primary objective is to bring clarity to the data analytics initi
 **Overall Report**
 
 Dashboards Homepage 
-![Home Page BI](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/de0139f6-4471-4196-9c26-d2b532918d01)
+![Home Page BI](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/de0139f6-4471-4196-9c26-d2b532918d01)
 
 Finance View
-![Finance View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/3cb2f56c-2841-42b8-8fd1-d9c07ba6b6ab)
+![Finance View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/3cb2f56c-2841-42b8-8fd1-d9c07ba6b6ab)
 
 Sales View
-![Sales View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/b6c927f2-62cb-4161-9d77-bbc6bb18576f)
+![Sales View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/b6c927f2-62cb-4161-9d77-bbc6bb18576f)
 
 Marketing View
-![Marketing View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/9386ddd5-9761-48a7-8a60-f9adb88b8608)
+![Marketing View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/9386ddd5-9761-48a7-8a60-f9adb88b8608)
 
 Supply Chain View
-![Supply Chain View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/2a5a8716-4252-42bb-8248-225bfa038379)
+![Supply Chain View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/2a5a8716-4252-42bb-8248-225bfa038379)
 
 Executive View
-![Executive View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/1d5fea84-c8e7-451a-bda3-47bfae14bb1f)
+![Executive View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/1d5fea84-c8e7-451a-bda3-47bfae14bb1f)
 
 
 
