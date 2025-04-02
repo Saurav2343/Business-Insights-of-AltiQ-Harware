@@ -40,22 +40,22 @@ This project's primary objective is to bring clarity to the data analytics initi
 **Overall Report**
 
 Dashboards Homepage 
-![Home Page BI](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/de0139f6-4471-4196-9c26-d2b532918d01)
+![HomePage](https://github.com/user-attachments/assets/f85ece76-4bf7-4272-99ec-08aec77e9aac)
 
 Finance View
-![Finance View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/3cb2f56c-2841-42b8-8fd1-d9c07ba6b6ab)
+![Finance View](https://github.com/user-attachments/assets/67c265e3-5fb4-48a1-a597-f3dbc2255cef)
 
 Sales View
-![Sales View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/b6c927f2-62cb-4161-9d77-bbc6bb18576f)
+![Sales View](https://github.com/user-attachments/assets/e163ebb8-ce6c-47fb-920c-2ce830aa1427)
 
 Marketing View
-![Marketing View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/9386ddd5-9761-48a7-8a60-f9adb88b8608)
+![Marketing View](https://github.com/user-attachments/assets/3b94c6a2-4c79-483f-8120-9488200c9280)
 
 Supply Chain View
-![Supply Chain View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/2a5a8716-4252-42bb-8248-225bfa038379)
+![Supply Chain View](https://github.com/user-attachments/assets/3caaa9f5-765d-4b24-b9f0-5def4e115a11)
 
 Executive View
-![Executive View](https://github.com/Saurav2343/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/1d5fea84-c8e7-451a-bda3-47bfae14bb1f)
+![Executive View](https://github.com/user-attachments/assets/0246b767-c19e-4721-b7b7-a63f2d9e892c)
 
 
 
